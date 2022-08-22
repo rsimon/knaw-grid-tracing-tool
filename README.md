@@ -2,6 +2,4 @@
 
 A tool for tracing grids on scanned maps served via IIIF. Built with Annotorious.
 
-Will be integrated with
-<https://github.com/knaw-huc/annorepo/issues>
-<https://annorepo.tt.di.huc.knaw.nl> 
+To be integrated with <https://github.com/knaw-huc/annorepo/issues> / <https://annorepo.tt.di.huc.knaw.nl> 
